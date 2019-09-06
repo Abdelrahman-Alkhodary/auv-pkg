@@ -2,6 +2,9 @@
 Changelog for package auv_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.1.0 (2017-11-29)
 ------------------
 * updated maintainers list

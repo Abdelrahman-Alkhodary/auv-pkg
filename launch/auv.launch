@@ -1,0 +1,11 @@
+<launch>
+
+<node name="IMU_node" pkg="auv_msgs" type="IMU_node" output="screen"/>
+
+<node name="GPS_node" pkg="auv_msgs" type="GPS_node" output="screen"/>
+
+<node name="Path_Planning_node" pkg="auv_msgs" type="Path_Planning_node" output="screen"/>
+
+<node name="Thrusters_node" pkg="auv_msgs" type="Thrusters_node" output="screen"/>
+
+</launch>
